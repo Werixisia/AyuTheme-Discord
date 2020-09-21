@@ -1,6 +1,4 @@
-/**
- * @name Ayu
- * @author Veronica "Werixisia"#3356
- * @version 0.1.0
- * @description Ayu theme inspired from VSCode and redone for Discord with love <3
-*/
+:root {
+    --ServerSize: 45px;
+	--ServerColumns: 1;
+}
