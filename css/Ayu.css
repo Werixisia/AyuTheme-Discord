@@ -1,4 +1,5 @@
 :root {
-    --ServerSize: 30px;
-	--ServerColumns: 1;
+    /*Horizontal Server List Config*/
+    --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
+    --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
 }
